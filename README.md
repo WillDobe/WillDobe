@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WillDobe
 - 👀 I’m interested in project management
 - 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on tutorial
 - 📫 How to reach me willbedone26@yahoo.com
 
 <!---
